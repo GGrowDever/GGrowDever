@@ -12,7 +12,7 @@
 <p align="left">
 
  <div align="left"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;" href="https://www.linkedin.com/in/gabriel-victor-silva-6ab8b413a/">
+        <a target="_blank" style="margin-left: 10px;" href="https://www.linkedin.com/in/gabriel-victor-silva-6ab8b413a/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
       <a style="margin-left: 10px;" href="https://www.instagram.com/gabriel86victor/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
