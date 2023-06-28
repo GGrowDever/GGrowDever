@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Gabriel Victor (@GGrowDever)
-- 👀 I’m interested in development skills of programmer
--  #  i'm studying Dev. Web Full Stack
-- 💞️ I like to play video games, watch series and animes
+- **  i'm studying Dev. Web Full Stack
 - 🌱 I’m currently learning how be a programmer
+- 👀 I’m interested in development skills of programmer
+- 💞️ I like to play video games, watch series and animes
 - ✨ I’m looking to collaborate on any kind of stuffs that i can improve myself
 -  @  I've been a postman for 15 years
 - 📫 How to reach me ...
