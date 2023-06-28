@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gabriel Victor (@GGrowDever)
-- **  i'm studying Dev. Web Full Stack
+- **  I'm studying Full Stack Web Development
 - 🌱 I’m currently learning how be a programmer
 - 👀 I’m interested in development skills of programmer
 - 💞️ I like to play video games, watch series and animes
